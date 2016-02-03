@@ -1,2 +1,2 @@
 # civichacking
-Repository for civic hacking materials
+Repository for TCNewTech civic hacking initiative.
